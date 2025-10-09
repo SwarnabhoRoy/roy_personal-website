@@ -1,3 +1,10 @@
 img {
-    width: 1024px;
+    width: 512px;
+}
+
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background: purple;
+    color: whitesmoke;
 }
